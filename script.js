@@ -33,10 +33,6 @@ function main() {
     empty.addEventListener("dragleave", dragLeave)
     empty.addEventListener("drop", dragDrop)
   })
-  // fill.addEventListener("dragover", dragOver)
-  // fill.addEventListener("dragenter", dragEnter)
-  // fill.addEventListener("dragleave", dragLeave)
-  // fill.addEventListener("dragdrop", dragDrop)
 }
 
 main()
